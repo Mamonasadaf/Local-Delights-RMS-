@@ -11,13 +11,12 @@ Microsoft Visual Studio
 Microsoft SQL Server
 # Environment Setup
 Install .NET Framework:
-Download and install the .NET framework from this link.
 
 ### Install Visual Studio:
-Install Microsoft Visual Studio on your desktop. You can follow the instructions provided in this YouTube video for environment setup.
+[Install Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/) on your desktop. You can follow the instructions provided in this YouTube video for [environment setup of .Net in Visual studio.](https://youtu.be/SuLiu5AK9Ps?si=KfVMa_M-1SQGfkCl)
 
 ### Install SQL Server:
-Download and install Microsoft SQL Server from this link.
+Download and install Microsoft SQL Server [from this link.](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Database Setup
 Open Code Files:
