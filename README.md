@@ -29,7 +29,7 @@ Execute the SQL command provided in the project to create the necessary database
 ### Create a Connection:
 Follow the instructions provided in this YouTube playlist to set up a connection to the database. This usually involves configuring a connection string in a dedicated connection file.
 
-### Run the Program
+# Run the Program
 Once you have completed the environment setup and database configuration, you are ready to run the program:
 
 Open the project in Visual Studio.
